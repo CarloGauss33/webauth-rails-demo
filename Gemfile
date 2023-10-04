@@ -19,6 +19,7 @@ gem "scout_apm"
 gem "sprockets-rails"
 gem "strong_migrations"
 gem "vite_rails"
+gem "webauthn"
 
 group :development do
   gem "annotate", "~> 3.0"
